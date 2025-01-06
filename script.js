@@ -16,7 +16,7 @@ button.addEventListener("click", async () => {
 
         if (result) {
             navigator.clipboard.writeText(result).then(() => {
-                alert("Nomes dos arquivos copiados com sucesso!");
+                alert("Nome dos arquivos copiados com sucesso!");
             }).catch(err => {
                 alert("Erro ao copiar para área de transferência.");
             });
