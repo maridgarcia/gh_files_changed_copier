@@ -1,7 +1,7 @@
 ## Instalando a extensão:
   - Baixe o repositório na sua máquina local
     ```
-    git clone https://github.com/maridgarcia/gh_files_changed_copier.git </code>
+    git clone https://github.com/maridgarcia/gh_files_changed_copier.git
     ```
   - Acesse `chrome://extensions/` no navegador
   - Ative o Modo Desenvolvedor no canto superior direito.
