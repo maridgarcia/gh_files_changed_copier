@@ -1,5 +1,8 @@
 .main-bt {
-    background-color: black;
+    background-color: rgb(0, 120, 233);
     color: white;
-    border-radius: 4px;
+    border-radius: 8px;
+    border-width: 0;
+    padding: 5px;
+    text-align: center;
 }

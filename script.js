@@ -22,7 +22,7 @@ button.addEventListener("click", async () => {
             });
         }
     }).catch(err => {
-        console.error("Erro ao injetar script:", err);
+        alert("Erro ao injetar script:", err);
     });
 });
 
